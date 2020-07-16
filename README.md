@@ -1,5 +1,6 @@
                                                             Mastercard Challenge
           1. Resource endpoint : 
+	  
                   http://localhost:8080/connected?origin=city1&destination=city2
                     
 		 1.1 Input :

@@ -1,12 +1,13 @@
-Mastercard Challenge
-1.	Resource endpoint : 
-http://localhost:8080/connected?origin=city1&destination=city2
-1.1	Input :
-•	String city1 (Optional)
-•	String city2 (Optional)
-1.2	Output :
-•	yes – if connected
-•	no – if not connected or error
+                                                            Mastercard Challenge
+             1.	Resource endpoint : 
+                  http://localhost:8080/connected?origin=city1&destination=city2
+                    
+		 1.1 Input :
+                      •	String city1 (Optional)
+                      •	String city2 (Optional)
+                1.2 Output :
+                      •	yes – if connected
+                      •	no – if not connected or error
 
 2.	Running the application :
 2.1.	Copy the city.txt input file to the same location as the jar file.
